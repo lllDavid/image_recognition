@@ -14,7 +14,7 @@ git clone https://github.com/lllDavid/image_recognition
 pip install -r requirements.txt
 ```
 
-### 3. Create a /images folder ind the main directory, where you will put the images to be recognized
+### 3. Create a images folder in the main directory, where you will put the images to be recognized
 ```bash
 mkdir images
 ```
