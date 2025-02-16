@@ -1,5 +1,3 @@
-# This model recognizes if a image is a cat or a dog
-
 ## Prerequisites
 - Python 3.12+
 - Git
